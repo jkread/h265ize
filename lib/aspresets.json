@@ -4,12 +4,17 @@
         "preset": "medium",
         "bitdepth": 10
     },
-        "anime-high-slow": {
+    "anime-high8": {
+        "x265Options": "weightb:tune=animation",
+        "preset": "medium",
+        "bitdepth": 8
+    },
+    "anime-high-slow": {
         "x265Options": "weightb:tune=animation",
         "preset": "veryslow",
         "bitdepth": 10
     },
-        "anime-high-slow8": {
+    "anime-high-slow8": {
         "x265Options": "weightb:tune=animation",
         "preset": "veryslow",
         "bitdepth": 8
