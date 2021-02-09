@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FallingSnow/h265ize.git"
+    "url": "git+https://github.com/jkread/h265ize.git"
   },
   "keywords": [
     "video",
@@ -22,12 +22,12 @@
     "library",
     "transcode"
   ],
-  "author": "Ayrton Sparling",
+  "author": "John Read",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FallingSnow/h265ize/issues"
+    "url": "https://github.com/jkread/h265ize/issues"
   },
-  "homepage": "https://github.com/FallingSnow/h265ize#readme",
+  "homepage": "https://github.com/jkread/h265ize#readme",
   "dependencies": {
     "bluebird": "^3.4.6",
     "chokidar": "^1.6.1",
